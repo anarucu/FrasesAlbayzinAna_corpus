@@ -1,0 +1,1 @@
+ Dime el nombre de un río que pasa por Madrid, cuya longitud es menor que la del Tajo y no pasa por ninguna comunidad que posea picos superiores a los 1.000 m.

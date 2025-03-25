@@ -1,0 +1,1 @@
+ Dime las ciudades de las comunidades autónomas que tengan un pico con altura entre 1.000 y 2.000 m.
